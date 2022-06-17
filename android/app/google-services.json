@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "705940709886",
+    "project_id": "symmetric-ray-352807",
+    "storage_bucket": "symmetric-ray-352807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705940709886:android:6801afd2b8e712cc2a60af",
+        "android_client_info": {
+          "package_name": "com.example.flutter_test_google_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705940709886-pefai60bd69vi9k1i1bivg7j5se782ok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_test_google_api",
+            "certificate_hash": "3e0ac4f7a611955a989935a9d8ed4252d0715e20"
+          }
+        },
+        {
+          "client_id": "705940709886-d1fe5sr35bemsrtdt52qf1i181k9au8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8MeA7YJg2fNOTu6zjKSGGbhgx6sIixxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705940709886-d1fe5sr35bemsrtdt52qf1i181k9au8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
